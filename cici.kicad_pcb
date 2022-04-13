@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 0.2032)
+    (last_trace_width 0.25)
     (user_trace_width 0.2032)
     (user_trace_width 0.254)
     (user_trace_width 0.5)
@@ -1688,8 +1688,8 @@
     (effects (font (size 4 4) (thickness 0.5)))
   )
   (gr_circle (center 84.6 151.5) (end 84.9 151.5) (layer F.SilkS) (width 3) (tstamp 6254C88D))
-  (gr_arc (start 92.925 116.1) (end 100.45 155.55) (angle -43.2) (layer F.SilkS) (width 0.5) (tstamp 6254C677))
-  (gr_arc (start 95.075 116.675) (end 62.9 139.75) (angle -44.2) (layer F.SilkS) (width 0.5) (tstamp 6254C674))
+  (gr_arc (start 92.925 116.1) (end 100.3 155.55) (angle -43.2) (layer F.SilkS) (width 0.5) (tstamp 6254C677))
+  (gr_arc (start 95.075 116.675) (end 62.9 139.75) (angle -43.92580428) (layer F.SilkS) (width 0.5) (tstamp 6254C674))
   (gr_line (start 137.153817 34) (end 133.778817 117.853305) (layer F.SilkS) (width 0.5) (tstamp 6254C88A))
   (gr_line (start 58 27.2) (end 130.375 27.2) (layer F.SilkS) (width 0.5) (tstamp 6254C890))
   (gr_line (start 54.525 118.4) (end 51.100929 34) (layer F.SilkS) (width 0.5) (tstamp 6254C893))
