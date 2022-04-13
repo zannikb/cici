@@ -47,17 +47,6 @@ F 3 "" H 10950 2175 50  0001 C CNN
 	1    10950 2175
 	1    0    0    -1  
 $EndComp
-$Comp
-L cici-rescue:SW_PUSH-kbd-corne-light-rescue RSW1
-U 1 1 625312FA
-P 8700 2275
-F 0 "RSW1" H 8700 2530 50  0000 C CNN
-F 1 "SW_PUSH" H 8700 2439 50  0000 C CNN
-F 2 "kbd:ResetSW_1side" H 8700 2275 50  0001 C CNN
-F 3 "" H 8700 2275 50  0000 C CNN
-	1    8700 2275
-	1    0    0    -1  
-$EndComp
 Text GLabel 8400 2275 0    50   Input ~ 0
 reset
 $Comp
@@ -714,14 +703,25 @@ SLC
 Text GLabel 5375 4250 0    50   Input ~ 0
 SDA
 $Comp
-L power:VCC #PWR?
+L power:VCC #PWR0101
 U 1 1 6254B58B
 P 5375 4550
-F 0 "#PWR?" H 5375 4400 50  0001 C CNN
+F 0 "#PWR0101" H 5375 4400 50  0001 C CNN
 F 1 "VCC" V 5393 4677 50  0000 L CNN
 F 2 "" H 5375 4550 50  0001 C CNN
 F 3 "" H 5375 4550 50  0001 C CNN
 	1    5375 4550
 	0    -1   -1   0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW_R
+U 1 1 6254F34F
+P 8700 2275
+F 0 "SW_R" H 8700 2438 50  0000 C CNN
+F 1 "SW_PUSH" H 8700 2529 50  0001 C CNN
+F 2 "kbd:ResetSW_1side" H 8700 2438 50  0001 C CNN
+F 3 "" H 8700 2275 50  0000 C CNN
+	1    8700 2275
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
