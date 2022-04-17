@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 256.78 153.33" style="enable-background:new 0 0 256.78 153.33;" xml:space="preserve">
+	 viewBox="0 0 256.78 76.67" style="enable-background:new 0 0 256.78 76.67;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
 </style>
 <line class="st0" x1="245.47" y1="3.65" x2="11.9" y2="3.65"/>
-<line class="st0" x1="247.01" y1="149.14" x2="10.4" y2="149.14"/>
-<line class="st0" x1="3.33" y1="12.23" x2="6.12" y2="144.85"/>
-<line class="st0" x1="251.3" y1="144.85" x2="254.05" y2="12.23"/>
-<path class="st0" d="M251.3,144.85c-0.09,3.49-2.25,4.29-4.29,4.29"/>
-<path class="st0" d="M10.4,149.14c-3.61,0-4.29-2.26-4.29-4.29"/>
-<path class="st0" d="M3.32,12.23C3.19,7.78,7.16,3.65,11.9,3.65"/>
-<path class="st0" d="M245.47,3.66c4.45-0.13,8.57,3.84,8.57,8.57"/>
+<line class="st0" x1="247.01" y1="73.7" x2="10.4" y2="73.7"/>
+<path class="st0" d="M251.3,69.41c-0.09,3.49-2.25,4.29-4.29,4.29"/>
+<path class="st0" d="M10.4,73.7c-3.61,0-4.29-2.26-4.29-4.29"/>
+<path class="st0" d="M3.32,12.23c-0.2-4.29,3.84-8.57,8.57-8.57"/>
+<path class="st0" d="M245.47,3.66c4.47,0,8.86,4.01,8.57,8.57"/>
 <circle class="st0" cx="15.15" cy="15.13" r="3.12"/>
 <circle class="st0" cx="242.23" cy="15.13" r="3.12"/>
+<line class="st0" x1="6.12" y1="69.41" x2="3.32" y2="12.08"/>
+<line class="st0" x1="251.3" y1="69.41" x2="254.05" y2="12.23"/>
 </svg>
