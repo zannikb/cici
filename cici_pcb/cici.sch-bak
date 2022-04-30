@@ -435,7 +435,7 @@ U 1 1 6254B67F
 P 900 2525
 F 0 "SW1" H 900 2688 50  0000 C CNN
 F 1 "SW_PUSH" H 900 2689 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 900 2525 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 900 2525 50  0001 C CNN
 F 3 "" H 900 2525 50  0000 C CNN
 	1    900  2525
 	1    0    0    -1  
@@ -465,7 +465,7 @@ U 1 1 6254E82D
 P 1625 2525
 F 0 "SW2" H 1625 2688 50  0000 C CNN
 F 1 "SW_PUSH" H 1625 2689 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 1625 2525 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 1625 2525 50  0001 C CNN
 F 3 "" H 1625 2525 50  0000 C CNN
 	1    1625 2525
 	1    0    0    -1  
@@ -479,7 +479,7 @@ U 1 1 6254F97E
 P 1625 3100
 F 0 "SW6" H 1625 3355 50  0000 C CNN
 F 1 "SW_PUSH" H 1625 3264 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 1625 3100 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 1625 3100 50  0001 C CNN
 F 3 "" H 1625 3100 50  0000 C CNN
 	1    1625 3100
 	1    0    0    -1  
@@ -493,7 +493,7 @@ U 1 1 625508CE
 P 900 3100
 F 0 "SW5" H 900 3263 50  0000 C CNN
 F 1 "SW_PUSH" H 900 3264 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 900 3100 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 900 3100 50  0001 C CNN
 F 3 "" H 900 3100 50  0000 C CNN
 	1    900  3100
 	1    0    0    -1  
@@ -507,7 +507,7 @@ U 1 1 62551341
 P 2350 2525
 F 0 "SW3" H 2350 2688 50  0000 C CNN
 F 1 "SW_PUSH" H 2350 2689 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 2350 2525 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 2350 2525 50  0001 C CNN
 F 3 "" H 2350 2525 50  0000 C CNN
 	1    2350 2525
 	1    0    0    -1  
@@ -518,7 +518,7 @@ U 1 1 625521AD
 P 3075 2525
 F 0 "SW4" H 3075 2688 50  0000 C CNN
 F 1 "SW_PUSH" H 3075 2689 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 3075 2525 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 3075 2525 50  0001 C CNN
 F 3 "" H 3075 2525 50  0000 C CNN
 	1    3075 2525
 	1    0    0    -1  
@@ -532,7 +532,7 @@ U 1 1 62552C1B
 P 900 3675
 F 0 "SW9" H 900 3930 50  0000 C CNN
 F 1 "SW_PUSH" H 900 3839 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 900 3675 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 900 3675 50  0001 C CNN
 F 3 "" H 900 3675 50  0000 C CNN
 	1    900  3675
 	1    0    0    -1  
@@ -546,7 +546,7 @@ U 1 1 625538B7
 P 2350 4825
 F 0 "SW18" H 2350 4988 50  0000 C CNN
 F 1 "SW_PUSH" H 2350 4989 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 2350 4825 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 2350 4825 50  0001 C CNN
 F 3 "" H 2350 4825 50  0000 C CNN
 	1    2350 4825
 	1    0    0    -1  
@@ -557,7 +557,7 @@ U 1 1 62554193
 P 1625 4825
 F 0 "SW17" H 1625 4988 50  0000 C CNN
 F 1 "SW_PUSH" H 1625 4989 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 1625 4825 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 1625 4825 50  0001 C CNN
 F 3 "" H 1625 4825 50  0000 C CNN
 	1    1625 4825
 	1    0    0    -1  
@@ -568,7 +568,7 @@ U 1 1 625549C3
 P 900 4250
 F 0 "SW13" H 900 4413 50  0000 C CNN
 F 1 "SW_PUSH" H 900 4414 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 900 4250 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 900 4250 50  0001 C CNN
 F 3 "" H 900 4250 50  0000 C CNN
 	1    900  4250
 	1    0    0    -1  
@@ -579,7 +579,7 @@ U 1 1 625556BB
 P 1625 3675
 F 0 "SW10" H 1625 3930 50  0000 C CNN
 F 1 "SW_PUSH" H 1625 3839 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 1625 3675 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 1625 3675 50  0001 C CNN
 F 3 "" H 1625 3675 50  0000 C CNN
 	1    1625 3675
 	1    0    0    -1  
@@ -593,7 +593,7 @@ U 1 1 625561C6
 P 1625 4250
 F 0 "SW14" H 1625 4413 50  0000 C CNN
 F 1 "SW_PUSH" H 1625 4414 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 1625 4250 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 1625 4250 50  0001 C CNN
 F 3 "" H 1625 4250 50  0000 C CNN
 	1    1625 4250
 	1    0    0    -1  
@@ -607,7 +607,7 @@ U 1 1 625570F5
 P 2350 4250
 F 0 "SW15" H 2350 4413 50  0000 C CNN
 F 1 "SW_PUSH" H 2350 4414 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 2350 4250 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 2350 4250 50  0001 C CNN
 F 3 "" H 2350 4250 50  0000 C CNN
 	1    2350 4250
 	1    0    0    -1  
@@ -618,7 +618,7 @@ U 1 1 62557859
 P 3075 4250
 F 0 "SW16" H 3075 4413 50  0000 C CNN
 F 1 "SW_PUSH" H 3075 4414 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 3075 4250 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 3075 4250 50  0001 C CNN
 F 3 "" H 3075 4250 50  0000 C CNN
 	1    3075 4250
 	1    0    0    -1  
@@ -629,7 +629,7 @@ U 1 1 62558752
 P 3075 3675
 F 0 "SW12" H 3075 3930 50  0000 C CNN
 F 1 "SW_PUSH" H 3075 3839 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 3075 3675 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 3075 3675 50  0001 C CNN
 F 3 "" H 3075 3675 50  0000 C CNN
 	1    3075 3675
 	1    0    0    -1  
@@ -643,7 +643,7 @@ U 1 1 62559494
 P 2350 3675
 F 0 "SW11" H 2350 3930 50  0000 C CNN
 F 1 "SW_PUSH" H 2350 3839 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 2350 3675 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 2350 3675 50  0001 C CNN
 F 3 "" H 2350 3675 50  0000 C CNN
 	1    2350 3675
 	1    0    0    -1  
@@ -654,7 +654,7 @@ U 1 1 6255A1D0
 P 2350 3100
 F 0 "SW7" H 2350 3355 50  0000 C CNN
 F 1 "SW_PUSH" H 2350 3264 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 2350 3100 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 2350 3100 50  0001 C CNN
 F 3 "" H 2350 3100 50  0000 C CNN
 	1    2350 3100
 	1    0    0    -1  
@@ -665,7 +665,7 @@ U 1 1 6255B08B
 P 3075 3100
 F 0 "SW8" H 3075 3355 50  0000 C CNN
 F 1 "SW_PUSH" H 3075 3264 50  0001 C CNN
-F 2 "kbd:keyswitch_cherrymx_alps_choc12_1u" H 3075 3100 50  0001 C CNN
+F 2 "kbd:CherryMX_1u" H 3075 3100 50  0001 C CNN
 F 3 "" H 3075 3100 50  0000 C CNN
 	1    3075 3100
 	1    0    0    -1  
@@ -722,6 +722,94 @@ F 1 "SW_PUSH" H 8700 2529 50  0001 C CNN
 F 2 "kbd:ResetSW_1side" H 8700 2438 50  0001 C CNN
 F 3 "" H 8700 2275 50  0000 C CNN
 	1    8700 2275
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 626C7888
+P 4375 2750
+F 0 "H?" H 4475 2796 50  0001 L CNN
+F 1 "MountingHole" H 4475 2750 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4375 2750 50  0001 C CNN
+F 3 "~" H 4375 2750 50  0001 C CNN
+	1    4375 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 626C9167
+P 4375 3000
+F 0 "H?" H 4475 3046 50  0001 L CNN
+F 1 "MountingHole" H 4475 3000 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4375 3000 50  0001 C CNN
+F 3 "~" H 4375 3000 50  0001 C CNN
+	1    4375 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 626C99B8
+P 4375 3250
+F 0 "H?" H 4475 3296 50  0001 L CNN
+F 1 "MountingHole" H 4475 3250 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4375 3250 50  0001 C CNN
+F 3 "~" H 4375 3250 50  0001 C CNN
+	1    4375 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 626C9BC6
+P 4375 3500
+F 0 "H?" H 4475 3546 50  0001 L CNN
+F 1 "MountingHole" H 4475 3500 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4375 3500 50  0001 C CNN
+F 3 "~" H 4375 3500 50  0001 C CNN
+	1    4375 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 626C9E42
+P 4375 3750
+F 0 "H?" H 4475 3796 50  0001 L CNN
+F 1 "MountingHole" H 4475 3750 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4375 3750 50  0001 C CNN
+F 3 "~" H 4375 3750 50  0001 C CNN
+	1    4375 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 626CA15D
+P 4375 4000
+F 0 "H?" H 4475 4046 50  0001 L CNN
+F 1 "MountingHole" H 4475 4000 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4375 4000 50  0001 C CNN
+F 3 "~" H 4375 4000 50  0001 C CNN
+	1    4375 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 626CA45B
+P 4375 4250
+F 0 "H?" H 4475 4296 50  0001 L CNN
+F 1 "MountingHole" H 4475 4250 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4375 4250 50  0001 C CNN
+F 3 "~" H 4375 4250 50  0001 C CNN
+	1    4375 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 626CA6AA
+P 4375 4500
+F 0 "H?" H 4475 4546 50  0001 L CNN
+F 1 "MountingHole" H 4475 4500 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4375 4500 50  0001 C CNN
+F 3 "~" H 4375 4500 50  0001 C CNN
+	1    4375 4500
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
