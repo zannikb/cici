@@ -1,6 +1,6 @@
 # Cici macropad
 
-x18 macropad created by zanniz or zanni_kbrd.
+x18 macropad created by zannikb.
 
 # Photos
 
