@@ -4,9 +4,9 @@ x18 macropad created by zannikb.
 
 # Photos
 
-![cici_v.2_01](https://user-images.githubusercontent.com/103176938/167682352-86320a9a-1bd7-4f1c-b00e-f32eecbfd373.jpg)
-![cici_v 2_02](https://user-images.githubusercontent.com/103176938/167682354-c89bd67f-a6e3-4d8a-98dd-a1db0038f946.jpg)
-![cici_v 2_03](https://user-images.githubusercontent.com/103176938/167682356-0b72ba98-56d0-48f8-be61-43588ef7a321.jpg)
+![cici_v.2_01](https://user-images.githubusercontent.com/103176938/167683676-becd4d63-a391-47c8-abb0-e0bb231bd816.jpg)
+![cici_v 2_02](https://user-images.githubusercontent.com/103176938/167683679-7756b925-3349-477f-aa3e-e1ce318481a8.jpg)
+![cici_v 2_03](https://user-images.githubusercontent.com/103176938/167683681-052a0353-5579-4107-8a6f-aca0c97523ab.jpg)
 
 
 
